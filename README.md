@@ -15,7 +15,7 @@ By employing blockchain as a distributed database, we can create an environment 
 -   **Transparency and Trust:** Immutable records on the blockchain provide an unaltered history of data, enhancing transparency and fostering community trust. For instance, a clear, immutable record of daily homicide counts can help dispel rumors and misinformation.
 -   **Efficiency:** Streamlining the data management process through automated verification and recording of transactions allows resources to be reallocated to more critical areas.
 -   **Security:** The decentralized nature of blockchain makes the system inherently resistant to hacking and data manipulation.
--   **Interoperability:** Blockchain data, including daily homicide counts, can be shared and used across different systems and platforms, enhancing collaboration and facilitating data-driven decision-making. This can also provide verifiable data sources for training public-facing machine learning models such as a 311 or public safety chatbot, allowing the public to verify the datasets used.
+-   **Interoperability:** Blockchain data can be shared and used across different systems and platforms, enhancing collaboration and facilitating data-driven decision-making. This can also provide verifiable data sources for training public-facing machine learning models such as a 311 or public safety chatbot, allowing the public to verify the datasets used.
 
 ### Feasibility and Implementation
 
